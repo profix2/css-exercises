@@ -1,1 +1,22 @@
-/* Add CSS Styling */
+.odd-number {
+    background-color:#ffa6a7;
+    font-size:18px;
+}
+
+.third {
+    font-size:22px;
+    font-weight:400;
+}
+
+#second {
+    color:blue;
+    font-family:"Times New Roman", Times, serif;
+    font-size:32px;
+}
+
+#fourth {
+    background-color:#80ff80;
+    font-size:22px;
+    font-weight:bold;
+    font-family:"Times New Roman", Times, serif;
+}
